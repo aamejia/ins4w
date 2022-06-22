@@ -1,1 +1,1 @@
-I am a first-generation student majoring in Computer and Systems Engineering at the Universidad San Ignacio de Loyola. Ever since I rediscovered my career, I’ve had a passion for making an impact in the world through computer science. Hence, I promote student events focused on computer science and software engineering education. In my spare time, I enjoy learning and building useful stuff.
+
